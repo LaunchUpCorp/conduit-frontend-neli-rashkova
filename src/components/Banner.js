@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Header() {
+function Banner() {
     return (
         <div className="bg-green-500 bg-opacity-95 w-full mb-2.5 pt-2">
             <div className="mx-auto flex flex-col justify-center items-center">
@@ -11,4 +11,4 @@ function Header() {
     );
 }
 
-export default Header;
+export default Banner;

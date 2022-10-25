@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Side() {
+function TagSelector() {
     return (
         <div className="w-1/4 ml-1">
             <div className="bg-gray-200 p-2">
@@ -10,4 +10,4 @@ function Side() {
     )
 }
 
-export default Side;
+export default TagSelector;
