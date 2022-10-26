@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "./Navbar";
+import Navbar from "../ReusableComponents/Navbar";
 import Banner from "./Banner";
 import Feed from "./Feed";
 
