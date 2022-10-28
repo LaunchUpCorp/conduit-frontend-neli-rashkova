@@ -1,9 +1,9 @@
 import React from "react";
-import Homepage from "./components/Homepage";
+import SignUpPage from "./components/SignUpPage/SignUpPage";
 
 function App() {
   return (
-  <Homepage />
+  <SignUpPage />
   );
 }
 

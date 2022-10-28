@@ -1,5 +1,5 @@
 import React from 'react';
-import FeedSelector from "./FeedSelector";
+import FeedSelector from "../ReusableComponents/FeedSelector";
 import Articles from './Articles';
 import TagSelector from './TagSelector';
 
